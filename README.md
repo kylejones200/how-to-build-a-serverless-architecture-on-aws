@@ -11,14 +11,7 @@ The benefits of serverless architecture include reduced operational costs, impro
 
 Improved scalability is another benefit of serverless architecture. With traditional architectures, scaling can be complex and time-consuming. However, with serverless architecture, scaling is automatic and seamless, allowing applications to handle large spikes in traffic without downtime.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
